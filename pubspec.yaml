@@ -1,0 +1,5 @@
+name: exercice_04
+author: hicham khachiaa
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
