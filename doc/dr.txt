@@ -1,0 +1,37 @@
+ex04
+
+6/10
+
+static final String task = 'task';
+->
+static final String task = 'Task';
+Task est un nom du concept.
+
+String state;
+->
+bool completed;
+
+(-1) bool get Started
+->
+bool get started
+voir https://www.dartlang.org/articles/style-guide/
+
+(-1) int getNumero()
+->
+int get numero
+voir https://www.dartlang.org/articles/style-guide/
+
+pubspec.yaml: exercice_04
+->
+pubspec.yaml: ex04
+
+ou
+
+test/to_do_model_test.dart:
+(-2) couleur rouge
+import 'package:package:ex04/exercice_04.dart';
+->
+import 'package:exercice_04/todo_example.dart';
+
+
+
