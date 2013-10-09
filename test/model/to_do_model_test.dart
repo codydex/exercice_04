@@ -1,6 +1,6 @@
 import 'package:unittest/unittest.dart';
 import 'package:dartlero/dartlero.dart';
-import 'package:ex04/exercice_04.dart';
+import 'package:exercice_04/exercice_04.dart';
 
 testTasks(Tasks tasks) {
 
